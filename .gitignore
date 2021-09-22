@@ -7,3 +7,7 @@
 /*.pc
 *.dSYM
 tags
+bazel-bin
+bazel-hiredis
+bazel-out
+bazel-testlogs
